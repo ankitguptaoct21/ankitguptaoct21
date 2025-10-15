@@ -15,7 +15,7 @@ I thrive where **complexity meets clarity** — building reliable, low-latency s
 ---
 
 ### 🔍 Currently Exploring
-- System design for extreme scalability  
+- System design for extreme scalability and fault tolerance.
 - Event-driven microservices  
 - Blockchain + AI backend integrations
 
