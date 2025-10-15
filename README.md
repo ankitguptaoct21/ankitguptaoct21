@@ -9,37 +9,52 @@
 ---
 
 ### 💡 About Me
-I’m a **results-driven Software Engineer** with **7+ years** of experience designing, building, and scaling **high-performance backend systems** and **distributed architectures**.  
-I thrive where **complexity meets clarity** — building reliable, low-latency systems that drive real business results.
+I’m a **results-driven Software Engineer** with **7+ years** of experience building **scalable, high-performance backend systems** and **distributed architectures**.  
+I thrive where **complexity meets clarity** — building reliable, low-latency systems that create real business impact.  
 
-💬 I enjoy designing microservices, mentoring engineers, and turning chaos into clean, scalable architecture.  
-⚡ Always exploring performance tuning, message-driven systems, and blockchain integrations.
+💬 Passionate about system design, mentoring engineers, and engineering excellence.  
+⚡ Currently exploring **event-driven systems** and **blockchain–AI integrations**.
 
 ---
 
 ### 🧠 Tech Stack
+
+#### Core Skills
 `Node.js` · `Express.js` · `PostgreSQL` · `MongoDB` · `Redis`  
-`Kafka` · `AWS (EC2, S3)` · `Docker` · `Git` · `JIRA` · `Agile/Scrum`
+`Kafka` · `AWS (EC2, S3)` · `Docker` · `Git` · `Agile/Scrum`
+
+#### ⚙️ Visual Tech Badges
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ---
 
-### ⚙️ Projects That Matter
+### ⚙️ Highlight Projects
 
 #### 🧩 Ematic Solutions | AI-Powered Marketing Automation
-- Built a scalable backend data pipeline processing **100K+ data points/week**, boosting performance by **25%**.  
+- Built a scalable backend data pipeline processing **100K+ data points/week**, improving performance by **25%**.  
 - Implemented **Kafka-based streaming**, cutting latency by **30%**.  
-- Mentored **6 junior engineers**, improving velocity by **15%**.
+- Mentored **6 junior engineers**, boosting team velocity by **15%**.
 
 #### 🥬 GreenVeggies | B2B Agri-Tech Platform
-- Revamped the admin dashboard, improving efficiency by **35%** and cutting manual errors by **20%**.  
-- Automated 5,000+ daily SMS/Email notifications → **90% drop** in support tickets.
+- Revamped the admin dashboard — improved efficiency by **35%** and reduced manual errors by **20%**.  
+- Automated **5K+ daily notifications**, reducing customer support inquiries by **90%**.
 
 #### 🎮 Fandom Sports | Fantasy E-sports
-- Engineered scalable microservices supporting **30K+ active users in 6 months**.  
-- Built a full **Swagger/OpenAPI suite** reducing integration time by **25%**.
+- Scaled core microservices to support **30K+ users in 6 months**.  
+- Built a **Swagger/OpenAPI** suite, cutting integration friction by **25%**.
 
 #### 💰 Ethos Wallet | Universal Crypto Wallet
-- Integrated **10+ blockchains** (BTC, ETH, XRP, ERC-20) into one wallet service.  
+- Integrated **10+ blockchains** (BTC, ETH, XRP, ERC-20) into one platform.  
 - Created a reusable **crypto library**, reducing new chain integration time by **60%**.
 
 ---
@@ -53,13 +68,6 @@ I thrive where **complexity meets clarity** — building reliable, low-latency s
 ### 🎓 Education
 **B.E. Computer Engineering** — Devi Ahilya Vishwavidyalaya (74.67%)  
 📍 Indore, Madhya Pradesh, India
-
----
-
-### 🔍 Currently Exploring
-- System design for extreme scalability  
-- Event-driven microservices  
-- Blockchain + AI backend integrations
 
 ---
 
