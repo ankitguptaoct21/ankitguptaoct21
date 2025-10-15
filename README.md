@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ankit%20Gupta-blue?logo=linkedin)](https://linkedin.com/in/ankit-gupta-oct21)
 [![Email](https://img.shields.io/badge/Email-ankitgupta.oct21%40gmail.com-red?logo=gmail)](mailto:ankitgupta.oct21@gmail.com)
 [![Resume](https://img.shields.io/badge/📄_Resume-Download-brightgreen)](./Ankit_Resume_Final_Oct2025.pdf)
-![Profile Views](https://komarev.com/ghpvc/?username=ankit21goyal&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=ankitguptaoct21&color=blue)
 
 ---
 
@@ -65,12 +65,12 @@ I thrive where **complexity meets clarity** — building reliable, low-latency s
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ankit21goyal&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit21goyal&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ankitguptaoct21&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitguptaoct21&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=ankit21goyal&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://streak-stats.demolab.com?user=ankitguptaoct21&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -84,3 +84,4 @@ I thrive where **complexity meets clarity** — building reliable, low-latency s
 > _“Don’t just build systems — build systems that scale, adapt, and endure.”_
 
 ---
+
