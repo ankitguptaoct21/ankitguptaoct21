@@ -14,6 +14,13 @@ I thrive where **complexity meets clarity** — building reliable, low-latency s
 
 ---
 
+### 🔍 Currently Exploring
+- System design for extreme scalability  
+- Event-driven microservices  
+- Blockchain + AI backend integrations
+
+---
+
 ### 🧠 Tech Stack
 `Node.js` · `Express.js` · `PostgreSQL` · `MongoDB` · `Redis`  
 `Kafka` · `AWS (EC2, S3)` · `Docker` · `Git` · `JIRA` · `Agile/Scrum`
@@ -66,13 +73,6 @@ I thrive where **complexity meets clarity** — building reliable, low-latency s
 ### 🎓 Education
 **B.E. Computer Science and Engineering** — Devi Ahilya Vishwavidyalaya (74.67%), 2017
 📍 Indore, Madhya Pradesh, India
-
----
-
-### 🔍 Currently Exploring
-- System design for extreme scalability  
-- Event-driven microservices  
-- Blockchain + AI backend integrations
 
 ---
 
