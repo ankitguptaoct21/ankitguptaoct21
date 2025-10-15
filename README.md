@@ -9,8 +9,11 @@
 ---
 
 ### 💡 About Me
-I’m a **results-driven Software Engineer** with **7+ years** of experience designing and scaling **high-performance backend systems** and **distributed architectures**.  
+I’m a **results-driven Software Engineer** with **7+ years** of experience designing, building, and scaling **high-performance backend systems** and **distributed architectures**.  
 I thrive where **complexity meets clarity** — building reliable, low-latency systems that drive real business results.
+
+💬 I enjoy designing microservices, mentoring engineers, and turning chaos into clean, scalable architecture.  
+⚡ Always exploring performance tuning, message-driven systems, and blockchain integrations.
 
 ---
 
@@ -57,6 +60,18 @@ I thrive where **complexity meets clarity** — building reliable, low-latency s
 - System design for extreme scalability  
 - Event-driven microservices  
 - Blockchain + AI backend integrations
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ankit21goyal&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankit21goyal&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://streak-stats.demolab.com?user=ankit21goyal&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
