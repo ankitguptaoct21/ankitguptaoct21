@@ -1,102 +1,71 @@
-# Ankit Gupta — Senior Software Engineer
+# 👋 Hey, I'm Ankit Gupta  
+🚀 **Senior Software Engineer | Backend Systems | Distributed Architectures**
 
-**Bangalore, Karnataka, India • ankitgupta.oct21@gmail.com • +91-810-972-4546**  
-[LinkedIn](https://linkedin.com/in/ankit-gupta-oct21)
-
----
-
-## TL;DR
-Results-driven Computer Science Engineer with **7+ years** of experience building scalable, high-performance backend systems, distributed architectures, and low-latency services. I lead small teams, mentor engineers, and convert deep technical designs into measurable business results.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ankit%20Gupta-blue?logo=linkedin)](https://linkedin.com/in/ankit-gupta-oct21)
+[![Email](https://img.shields.io/badge/Email-ankitgupta.oct21%40gmail.com-red?logo=gmail)](mailto:ankitgupta.oct21@gmail.com)
+[![Resume](https://img.shields.io/badge/📄_Resume-Download-brightgreen)](./Ankit_Resume_Final_Oct2025.pdf)
+![Profile Views](https://komarev.com/ghpvc/?username=ankit21goyal&color=blue)
 
 ---
 
-## Core Strengths
-- Designing and operating scalable backend pipelines and microservices
-- Low-latency and high-throughput system design
-- Kafka-based streaming and producer-consumer architectures
-- Blockchain integrations and reusable cryptographic libraries
-- Mentorship, API design (Swagger/OpenAPI) and cross-team collaboration
-- AWS, Docker, PostgreSQL, MongoDB, Redis, Node.js (Express)
+### 💡 About Me
+I’m a **results-driven Software Engineer** with **7+ years** of experience designing and scaling **high-performance backend systems** and **distributed architectures**.  
+I thrive where **complexity meets clarity** — building reliable, low-latency systems that drive real business results.
 
 ---
 
-## Selected Projects (impact-first)
-
-### **Ematic Solutions — AI-Powered Marketing Automation**
-- Built a scalable backend pipeline that ingests & processes data from multiple third-party marketing apps — **100k+ data points/week**.
-- Implemented Kafka-based producer-consumer model to improve resilience and reduce processing latency by **~30%**.
-- Mentored **6 junior engineers**, improving team velocity by **~15%**.
-
-### **GreenVeggies — B2B Agri-Tech E-commerce**
-- Rebuilt admin dashboard with end-to-end operational workflows — improved order processing efficiency by **35%** and reduced inventory errors by **~20%**.
-- Automated 5,000 daily notifications (SMS/Email) via Msg-91 & SendGrid, cutting customer support order-status queries by **90%+** and saving significant ops cost.
-
-### **Fandom Sports — High-Traffic Fantasy E-sports**
-- Engineered core microservices (score feeds, referrals) to support rapid user growth **(30k+ users in 6 months)**.
-- Delivered a Swagger/OpenAPI model that reduced integration friction and accelerated release cycles by **~25%**.
-
-### **Ethos Wallet — Universal Cryptocurrency Wallet**
-- Integrated **10+ blockchains** (BTC, ETH, XRP, ERC-20 tokens) into a unified wallet service.
-- Built a reusable cryptographic library for mnemonics, seeds, and keys; cut new chain integration time by **~60%**.
-
-### **Howdoo Blockchain — Social Tipping**
-- Integrated Bitcoin & Ethereum into Node.js backend to enable cross-chain tipping; processed **25k+ transactions/day**.
+### 🧠 Tech Stack
+`Node.js` · `Express.js` · `PostgreSQL` · `MongoDB` · `Redis`  
+`Kafka` · `AWS (EC2, S3)` · `Docker` · `Git` · `JIRA` · `Agile/Scrum`
 
 ---
 
-## Professional Experience
+### ⚙️ Projects That Matter
 
-**Senior Software Engineer** — *Syvora Technologies Pvt. Ltd.*  
-*July 2022 – Present, Indore, India*  
-Built and deployed scalable, highly available backend services powering complex backend architectures.
+#### 🧩 Ematic Solutions | AI-Powered Marketing Automation
+- Built a scalable backend data pipeline processing **100K+ data points/week**, boosting performance by **25%**.  
+- Implemented **Kafka-based streaming**, cutting latency by **30%**.  
+- Mentored **6 junior engineers**, improving velocity by **15%**.
 
-**Senior Software Engineer** — *Excelmax Technologies Pvt. Ltd.*  
-*May 2020 – April 2022, Bangalore, India*  
-Developed and maintained a large-scale B2B e-commerce platform for enterprise buyers.
+#### 🥬 GreenVeggies | B2B Agri-Tech Platform
+- Revamped the admin dashboard, improving efficiency by **35%** and cutting manual errors by **20%**.  
+- Automated 5,000+ daily SMS/Email notifications → **90% drop** in support tickets.
 
-**Software Engineer** — *Recrosoft Technologies Pvt. Ltd.*  
-*July 2019 – April 2020, Bangalore, India*  
-Developed and deployed microservices for a fantasy e-sports platform.
+#### 🎮 Fandom Sports | Fantasy E-sports
+- Engineered scalable microservices supporting **30K+ active users in 6 months**.  
+- Built a full **Swagger/OpenAPI suite** reducing integration time by **25%**.
 
-**Solution Engineer** — *Deqode Solutions (Techracers Pvt. Ltd.)*  
-*June 2017 – June 2019, Indore, India*  
-Integrated Bitcoin, Ethereum and other blockchains into NodeJS architectures.
-
----
-
-## Tech Stack
-
-**Languages / Frameworks:** Node.js, Express.js  
-**Databases:** PostgreSQL, MongoDB, Redis  
-**Streaming / Messaging:** Kafka (producer-consumer models)  
-**Cloud / DevOps:** AWS (EC2, S3), Docker  
-**Tools / Practices:** Git, JIRA, Agile / Scrum, Swagger / OpenAPI
+#### 💰 Ethos Wallet | Universal Crypto Wallet
+- Integrated **10+ blockchains** (BTC, ETH, XRP, ERC-20) into one wallet service.  
+- Created a reusable **crypto library**, reducing new chain integration time by **60%**.
 
 ---
 
-## Achievements & Education
-- **AIR-10668** in IIT-JEE (Advanced), 2013  
-- Limca Book of Records — 4th place, Inter-School Quiz (2010)
-
-**B.E. — Computer Engineering**  
-Devi Ahilya Vishwavidhyalaya — **74.67%** (2013–2017)
-
-Higher Secondary: Madhya Pradesh Board — **81.6%** (2012)  
-High School: Madhya Pradesh Board — **86.17%** (2010)
+### 🏆 Achievements
+- 🧩 **AIR 10668 – IIT-JEE Advanced (2013)**  
+- 🧠 **4th Place** — Limca Book of Records Inter-School Quiz
 
 ---
 
-## What I'm Looking For
-- Senior backend / systems roles where I can design scalable services, influence architecture, and mentor engineers.
-- Projects involving streaming systems, blockchain integrations, or performance-critical distributed systems.
+### 🎓 Education
+**B.E. Computer Engineering** — Devi Ahilya Vishwavidyalaya (74.67%)  
+📍 Indore, Madhya Pradesh, India
 
 ---
 
-## Contact
-- **Email:** ankitgupta.oct21@gmail.com  
-- **LinkedIn:** https://linkedin.com/in/ankit-gupta-oct21  
-- **Phone:** +91-810-972-4546
+### 🔍 Currently Exploring
+- System design for extreme scalability  
+- Event-driven microservices  
+- Blockchain + AI backend integrations
 
 ---
 
-If you maintain a personal site or want a downloadable PDF resume link included here, send the URL or file and I'll add it into the README. If you want a shorter one-page version or a GitHub profile README with badges, sample projects, or sample code links — tell me which and I'll generate it next.
+### 📫 Connect
+📧 **ankitgupta.oct21@gmail.com**  
+🔗 [linkedin.com/in/ankit-gupta-oct21](https://linkedin.com/in/ankit-gupta-oct21)
+
+---
+
+> _“Don’t just build systems — build systems that scale, adapt, and endure.”_
+
+---
