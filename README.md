@@ -71,7 +71,7 @@ I thrive where **complexity meets clarity** — building reliable, low-latency s
 ---
 
 ### 🎓 Education
-**B.E. Computer Science and Engineering** — Devi Ahilya Vishwavidyalaya (74.67%), 2017 <br> 📍 Indore, Madhya Pradesh, India
+**B.E. Computer Science and Engineering** — Devi Ahilya Vishwavidyalaya (74.67%), 2017 <br>📍 Indore, Madhya Pradesh, India
 
 ---
 
