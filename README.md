@@ -41,15 +41,15 @@ I thrive where **complexity meets clarity** — building reliable, low-latency s
 #### 🧩 Ematic Solutions | AI-Powered Marketing Automation
 - Built a scalable backend data pipeline processing **100K+ data points/week**, boosting performance by **25%**.  
 - Implemented **Kafka-based streaming**, cutting latency by **30%**.  
-- Mentored **6 junior engineers**, improving velocity by **15%**.
+- Mentored **6 junior engineers**, improving team velocity by **15%**.
 
 #### 🥬 GreenVeggies | B2B Agri-Tech Platform
 - Revamped the admin dashboard, improving efficiency by **35%** and cutting manual errors by **20%**.  
-- Automated 5,000+ daily SMS/Email notifications → **90% drop** in support tickets.
+- Automated 5k+ daily SMS/Email notifications → **90% drop** in customer support tickets.
 
 #### 🎮 Fandom Sports | Fantasy E-sports
-- Engineered scalable microservices supporting **30K+ active users in 6 months**.  
-- Built a full **Swagger/OpenAPI suite** reducing integration time by **25%**.
+- Scaled core microservices to support **30K+ users in 6 months**.  
+- Built a full **Swagger/OpenAPI suite** reducing integration friction by **25%**.
 
 #### 💰 Ethos Wallet | Universal Crypto Wallet
 - Integrated **10+ blockchains** (BTC, ETH, XRP, ERC-20) into one wallet service.  
@@ -58,13 +58,13 @@ I thrive where **complexity meets clarity** — building reliable, low-latency s
 ---
 
 ### 🏆 Achievements
-- 🧩 **AIR 10668 – IIT-JEE Advanced (2013)**  
-- 🧠 **4th Place** — Limca Book of Records Inter-School Quiz
+- ✌🏼 **AIR 10668 – IIT-JEE Advanced (2013).**  
+- 🧠 **4th Place** — Limca Book of Records Inter-School Quiz, 2010.
 
 ---
 
 ### 🎓 Education
-**B.E. Computer Engineering** — Devi Ahilya Vishwavidyalaya (74.67%)  
+**B.E. Computer Science and Engineering** — Devi Ahilya Vishwavidyalaya (74.67%), 2017
 📍 Indore, Madhya Pradesh, India
 
 ---
