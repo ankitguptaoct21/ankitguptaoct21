@@ -20,8 +20,7 @@ I thrive where **complexity meets clarity** — building reliable, low-latency s
 
 ---
 
-### <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/32bf4fcc-e01f-4339-af00-b6166ff31a62" />
- Visual Tech Badges
+### Visual Tech Badges
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
