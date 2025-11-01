@@ -22,7 +22,7 @@ I thrive where **complexity meets clarity** — building reliable, low-latency s
 ---
 
 ### 🧠 Tech Stack
-`Node.js` · `Express.js` · `PostgreSQL` · `MongoDB` · `Redis` · `CI/CD` 
+`Node.js` · `Express.js` · `PostgreSQL` · `MongoDB` · `Redis` · `CI/CD`   
 `Kafka` · `AWS (EC2, S3, Lambda)` · `Docker` · `Git` · `JIRA` · `Agile/Scrum`
 
 ---
