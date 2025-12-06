@@ -9,7 +9,7 @@
 ---
 
 ### 💡 About Me
-I’m a **results-driven Software Engineer** with **7+ years** of experience designing and scaling **high-performance backend systems** and **distributed architectures**.  
+I’m a **result-driven Software Engineer** with **5+ years** of experience designing and scaling **high-performance backend systems** and **distributed architectures**.  
 I thrive where **complexity meets clarity** — building reliable, low-latency systems that drive real business results.
 
 ---
