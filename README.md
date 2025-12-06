@@ -3,7 +3,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ankit%20Gupta-blue?logo=linkedin)](https://linkedin.com/in/ankit-gupta-oct21)
 [![Email](https://img.shields.io/badge/Email-ankitgupta.oct21%40gmail.com-red?logo=gmail)](mailto:ankitgupta.oct21@gmail.com)
-[![Resume](https://img.shields.io/badge/📄_Resume-Download-brightgreen)](./Resume _ Ankit Gupta _ Senior Software Engineer.pdf)
+[![Resume](https://img.shields.io/badge/📄_Resume-Download-brightgreen)](./Resume_Ankit_Gupta_Senior_Software_Engineer.pdf)
 ![Profile Views](https://komarev.com/ghpvc/?username=ankit21goyal&color=blue)
 
 ---
